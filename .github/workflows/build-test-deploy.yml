@@ -64,7 +64,7 @@ jobs:
           paht: './out'
       - name: deploy
         id: deployment
-        uses: actions/deploy-pahes@v4
+        uses: actions/deploy-pages@v4
 
     
     
